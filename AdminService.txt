@@ -1,0 +1,2 @@
+This is admin service portal. 
+Where admin can add delete or modify the user permissions.

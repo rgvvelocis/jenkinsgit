@@ -1,0 +1,6 @@
+this is git basic class.
+we are writing first file here.
+
+some changes
+
+adding some changes to this file.
